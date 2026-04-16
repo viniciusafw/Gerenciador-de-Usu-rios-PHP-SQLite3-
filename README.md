@@ -16,17 +16,6 @@ Tecnologias Utilizadas
 
     Bootstrap Icons (Ícones)
 
-Estrutura de Arquivos
-
-A organização do código segue a seguinte estrutura:
-Plaintext
-
-├── banco.db        # Arquivo de banco de dados (gerado automaticamente)
-├── db.php          # Conexão e inicialização do banco
-├── header.php      # Cabeçalho HTML e CSS
-├── footer.php      # Scripts e fechamento de tags
-└── index.php       # Lógica principal e interface do CRUD
-
 Como Rodar o Projeto
 
     Pré-requisitos:
